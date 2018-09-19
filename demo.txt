@@ -1,4 +1,7 @@
 Hello
+
 welcome to git part 4 session
 in this we are practising stash commands
 this is my 2nd changes in stash
+i am using stash 1st change
+
